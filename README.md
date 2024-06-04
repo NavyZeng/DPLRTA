@@ -4,7 +4,7 @@ Copyright: Zeng, Haijin; Xie, Xiaozhen; Cui, Haojie; Zhao, Yuan; and Ning, Jifen
 
 Getting Started:
 
-Run DPLRTA_test
+Run test_DPLRTA
 
 Details:
 
