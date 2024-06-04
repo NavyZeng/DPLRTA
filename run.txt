@@ -1,0 +1,6411 @@
+
+### Testing DPLRTA model ###
+> Parameters:
+	input: Pavia_80.mat
+	suffix: 
+	dont_save_results: False
+	no_gpu: True
+	cuda: False
+
+
+**********img_noisy_Y***************
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1
+imput_len:
+2
+rgb: False
+im shape: torch.Size([200, 200])
+Loading model ...
+
+nchannels
+1

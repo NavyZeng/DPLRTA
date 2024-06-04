@@ -1,0 +1,53 @@
+	 The 0 time
+	 sigima 0.0141 time
+	Runtime 0.2187s
+	 psnr_new 38.3696 
+	 max  save 0 
+	critical_Z 0.94898
+	 The 1 time
+	 sigima 0.0004 time
+	Runtime 0.2020s
+	 psnr_new 38.2121 
+	critical_Z 0.00031
+	 The 2 time
+	 sigima 0.0001 time
+	Runtime 0.1848s
+	 psnr_new 38.2284 
+	critical_Z 0.00007
+	 The 3 time
+	 sigima 0.0001 time
+	Runtime 0.2058s
+	 psnr_new 38.2251 
+	critical_Z 0.00009
+	 The 4 time
+	 sigima 0.0001 time
+	Runtime 0.1889s
+	 psnr_new 37.7339 
+	critical_Z 0.00028
+	 The 5 time
+	 sigima 0.0001 time
+	Runtime 0.1698s
+	 psnr_new 30.0003 
+	critical_Z 0.01446
+	 The 6 time
+	 sigima 0.0001 time
+	Runtime 0.1710s
+	 psnr_new 13.4828 
+	critical_Z 0.74936
+	 The 7 time
+	 sigima 0.0001 time
+	Runtime 0.1668s
+	 psnr_new 13.3282 
+	critical_Z 0.02551
+	 The 8 time
+	 sigima 0.0001 time
+	Runtime 0.1717s
+	 psnr_new 13.8298 
+	critical_Z 0.00542
+	 The 9 time
+	 sigima 0.0001 time
+	Runtime 0.1750s
+	 psnr_new 14.1633 
+	critical_Z 0.00305
+	PSNR_MAX 38.37
+	K_MAX 0
